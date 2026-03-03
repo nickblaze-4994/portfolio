@@ -117,7 +117,7 @@ function Nav({ active, onNav }) {
           style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 18, fontWeight: 700, color: "#38bdf8", letterSpacing: "-0.5px", cursor: "pointer" }}
           onClick={() => onNav("Home")}
         >
-          VS<span style={{ color: "#94a3b8" }}>.</span>
+          Portfolio<span style={{ color: "#94a3b8" }}>.</span>
         </div>
 
         {/* Desktop nav */}
